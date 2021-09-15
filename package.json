@@ -18,7 +18,7 @@
   "homepage": "https://code.janeasystems.com/nodejs-mobile",
   "repository": {
     "type": "git",
-    "url": "https://github.com/janeasystems/nodejs-mobile-react-native"
+    "url": "https://github.com/LinoSuarez/nodejs-mobile-react-native"
   },
   "bugs": {
     "url": "https://github.com/janeasystems/nodejs-mobile/issues"
